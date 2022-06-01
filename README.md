@@ -8,3 +8,9 @@ Thus, the notebooks in this repo skip the audio upload and allows direct transcr
 Open one of the following Colab notebooks with your Google account. 
 The notebooks are totally browser-based, with no downloads required.
 * <a href="https://colab.research.google.com/github/mdnestor/yt-mt3/blob/master/MT3_for_noobs.ipynb" target="_parent">YouTube to MIDI via MT3 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+## How does it work?
+
+Check out [the blog post](https://magenta.tensorflow.org/transcription-with-transformers), or just stare at this picture long enough until it makes sense:
+
+![](https://magenta.tensorflow.org/assets/transcription-with-transformers/architecture_diagram.png)
